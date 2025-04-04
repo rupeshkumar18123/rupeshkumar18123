@@ -1,5 +1,14 @@
-## Hi there! 👋
+<h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/neerugangarh/" target="_blank">Rupesh kumar</h1>
 
+<div id="header" align="center">  
+<img src="[https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif](https://lottie.host/3864938f-8ff9-4c98-a0c9-5351ae795c56/psfxTkTrkD.lottie)"  width="400"/> 
+</div>
+<div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Welcome+to+my+Github+profile!;Passionate+about+Coding!)](https://git.io/typing-svg)
+
+</div>
+  
 <h1 align="center">
   Let's Connect and Have a Chat! 💬
 </h1>
