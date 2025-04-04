@@ -1,7 +1,7 @@
 <h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/neerugangarh/" target="_blank">Rupesh kumar</h1>
 
 <div id="header" align="center">
- <iframe src="https://lottie.host/embed/3864938f-8ff9-4c98-a0c9-5351ae795c56/psfxTkTrkD.lottie"></iframe>
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
 </div>
 
 
@@ -45,8 +45,9 @@
 
 ## 📈 GitHub Contributions
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rupeshkumar18123&theme=github-dark" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rupeshkumar18123&theme=github-dark" alt="GitHub Activity Graph"/>
 </p>
+
 
 ---
 
@@ -78,11 +79,11 @@
   <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub_Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"></a>
 <!--   <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"></a> -->
+<a href="#"><img alt="Unity 3D" src="https://img.shields.io/badge/Unity%203D-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"></a>
   <a href="#"><img alt="Apache" src="https://img.shields.io/badge/apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white"></a>
+<a href="#"><img alt="Unreal Engine 5" src="https://img.shields.io/badge/Unreal%20Engine%205-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white"></a>
   <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
  <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-<a href="#"><img alt="Unreal Engine 5" src="https://img.shields.io/badge/Unreal%20Engine%205-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white"></a>
-<a href="#"><img alt="Unity 3D" src="https://img.shields.io/badge/Unity%203D-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"></a>
 
 </p>
 
