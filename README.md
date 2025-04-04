@@ -1,7 +1,7 @@
 <h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/neerugangarh/" target="_blank">Rupesh kumar</h1>
 
 <div id="header" align="center">
-  <iframe src="https://lottie.host/embed/3864938f-8ff9-4c98-a0c9-5351ae795c56/psfxTkTrkD.lottie" width="400" height="300" frameborder="0" allowfullscreen></iframe>
+ <iframe src="https://lottie.host/embed/3864938f-8ff9-4c98-a0c9-5351ae795c56/psfxTkTrkD.lottie"></iframe>
 </div>
 
 
