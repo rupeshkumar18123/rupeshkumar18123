@@ -18,16 +18,11 @@
 
 ## 🚀 My GitHub History!  
 
-### 🏆 GitHub Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rupeshkumar18123&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophy"/>
-</p>
-
-
 ### 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupeshkumar18123&theme=dark" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=rupeshkumar18123&theme=dark" alt="GitHub Streak"/>
 </p>
+
 
 ### 📌 Most Used Languages  
 <p align="center">
