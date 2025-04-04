@@ -18,20 +18,22 @@
 
 ## 🚀 My GitHub History!  
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophy
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rupeshkumar18123&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rupeshkumar18123&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophy"/>
 </p>
 
-### 🔥 GitHub Streak
+
+### 🔥 GitHub Streak  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupeshkumar18123&theme=dark" alt="GitHub Streak"/>
 </p>
 
-### 📌 Most Used Languages
+### 📌 Most Used Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshkumar18123&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
+
 
 ---
 
